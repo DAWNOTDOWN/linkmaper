@@ -63,12 +63,6 @@
             ReferencedContainer = "container:linkmaper.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <CommandLineArguments>
-         <CommandLineArgument
-            argument = "-c  /Users/fangyang/Downloads/YYMobile-LinkMap-normal-arm64(1).txt -l 1000 /Users/fangyang/Downloads/YYMobile-LinkMap-normal-arm64.txt"
-            isEnabled = "YES">
-         </CommandLineArgument>
-      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
